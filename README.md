@@ -48,18 +48,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azykdeveloper&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov404&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azykdeveloper&theme=transparent&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayimov404&theme=transparent&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azykdeveloper&theme=transparent&layout=compact&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayimov404&theme=transparent&layout=compact&hide_border=true"  />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=azykdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="azykdeveloper" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nayimov404&label=Profile%20views&color=0e75b6&style=flat" alt="nayimov404" /> </p>
 
 
 ---
@@ -67,9 +67,9 @@
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azykdeveloper">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/nayimov404">LinkedIn</a> | 
   <a href="#">Portfolio</a> | 
-  <a href="azykdeveloper@gmail.com">Email</a>
+  <a href="nayimov404@gmail.com">Email</a>
 </p>
 
 <!--
